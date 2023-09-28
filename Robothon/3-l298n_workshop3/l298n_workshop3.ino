@@ -1,6 +1,6 @@
 /*
 ROBOTHON ELECTRONIX ENSTAB
-Workshop 2 : Ultrasonic Sensor
+Workshop 3 : Motors and drivers
 Copy and Paste this code on your Arduino IDE
 
 
