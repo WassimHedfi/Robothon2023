@@ -1,6 +1,6 @@
 /*
 ROBOTHON ELECTRONIX ENSTAB
-Workshop 1 : IR Sensor
+Workshop 4 : RC Remote Car
 Copy and Paste this code on your Arduino IDE
 
 
