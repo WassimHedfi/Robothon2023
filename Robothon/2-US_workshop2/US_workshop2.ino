@@ -31,7 +31,7 @@ void loop() {
   digitalWrite(trigPin, LOW); // put it back at zero
   
   float duration = pulseIn(echoPin, HIGH); // the function 'pulsin' acts as a chronometer
-                                          // when you call it it will start counting time and stop when echoPin is high and returns the duration
+                                          // when you call it it will start measuring time and stop when echoPin is high and returns the duration
   // Calculating the distance
   float distance = duration * 0.034 / 2; // Speed of sound wave divided by 2 (from the sensor to the object and back == double the distance we want to calculate)
   float distanceCentimeter;  // create a variable to store the distance 
