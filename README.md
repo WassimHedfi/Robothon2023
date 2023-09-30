@@ -7,6 +7,9 @@ Welcome to the Robothon workshop series hosted by **Electronix Enstab** Robotics
 
 Robothon is a comprehensive robotics event designed to introduce participants to the exciting world of robotics and embedded systems. We offer a combination of training sessions and hands-on workshops to help you develop essential skills in building and programming robots.
 
+## Arduino IDE Download link
+https://www.arduino.cc/en/software
+
 ## Event Schedule
 
 ### Training 1: Fundamentals of Embedded Systems
